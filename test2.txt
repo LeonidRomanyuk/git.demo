@@ -1,3 +1,0 @@
-hello 2
-test passed 2
-by 2
